@@ -1,0 +1,9 @@
+*.o
+*.a
+Makefile
+jconfig.h
+cjpeg
+djpeg
+jpegtran
+rdjpgcom
+wrjpgcom
